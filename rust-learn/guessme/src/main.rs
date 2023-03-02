@@ -1,7 +1,7 @@
 /*
  * ===============================================
  * author: goodfanqie.
- * description : a simple guess game to learn rust.
+ * description : let mut match trait
  * learn from: https://kaisery.github.io/trpl-zh-cn/ch02-00-guessing-game-tutorial.html?search=
  * ===============================================
  */  
