@@ -1,2 +1,2 @@
 # jcore
-toy os 
+toy os by rust 

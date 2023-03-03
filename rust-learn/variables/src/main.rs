@@ -11,5 +11,5 @@ fn main() {
     println!("The value of x is: {x}");
     
     const DMO: u64 = 123;
-    println!("{}", DEMO);
+    println!("{}", DMO);
 }
